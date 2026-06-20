@@ -29,3 +29,28 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 * Git & GitHub Workflow
 
 **Problems Solved So Far:** 3 🚀
+
+## 📅 Day 2 (20 June 2026)
+
+### Problems Solved
+
+1. Pow(x, n)
+2. Power of Two
+3. Number of 1 Bits
+
+### Concepts Learned
+
+* Binary Exponentiation
+* Bit Manipulation
+* Bitwise Operators (&, >>)
+* Hamming Weight
+* Time Complexity Optimization
+
+### Key Takeaways
+
+* Learned Binary Exponentiation to compute powers efficiently in O(log n).
+* Learned how to check whether a number is a power of two using bit manipulation.
+* Learned efficient counting of set bits using Brian Kernighan's Algorithm.
+
+**Problems Solved Today:** 3 🚀
+**Total Problems Solved So Far:** 6 🚀
