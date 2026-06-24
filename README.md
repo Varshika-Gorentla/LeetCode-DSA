@@ -54,7 +54,7 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 
 **Problems Solved Today:** 3 🚀
 
-## 📅 Day 3 (24 June 2026)
+## 📅 Day 3 (22 June 2026)
 
 ### Problems Solved
 
@@ -76,3 +76,26 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 ✅ Total Problems Solved Today: 3  
 ✅ Difficulty: Easy  
 ✅ Topics: Arrays, Matrix, Simulation, Dynamic Programming Basics
+
+## 📅 Buffer Day – 24 June 2026
+
+### Problems Solved
+
+* Fibonacci Number
+* Reverse Integer / Reverse a Number
+* Palindrome Number
+* Valid Palindrome (String)
+
+### Concepts Practiced
+
+* Loops and Iteration
+* Number Manipulation
+* String Processing
+* Palindrome Checking
+* Basic Mathematics
+* Time and Space Complexity Analysis
+
+### Progress
+
+Used this buffer day to revise previously learned concepts and strengthen problem-solving skills through additional LeetCode practice.
+
