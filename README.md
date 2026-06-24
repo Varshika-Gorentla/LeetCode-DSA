@@ -53,4 +53,26 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 * Learned efficient counting of set bits using Brian Kernighan's Algorithm.
 
 **Problems Solved Today:** 3 🚀
-**Total Problems Solved So Far:** 6 🚀
+
+## 📅 Day 3 (24 June 2026)
+
+### Problems Solved
+
+1. Pascal's Triangle (LC 118)
+2. Pascal's Triangle II (LC 119)
+3. Reshape the Matrix (LC 566)
+
+### Concepts Learned
+
+- Generating Pascal's Triangle using nested vectors
+- Understanding the relationship between adjacent elements in Pascal's Triangle
+- Optimizing space for generating a specific row of Pascal's Triangle
+- Matrix traversal in row-major order
+- Reshaping matrices while preserving element order
+- Working with 2D vectors in C++
+
+### Progress
+
+✅ Total Problems Solved Today: 3  
+✅ Difficulty: Easy  
+✅ Topics: Arrays, Matrix, Simulation, Dynamic Programming Basics
