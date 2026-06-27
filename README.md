@@ -99,3 +99,125 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 
 Used this buffer day to revise previously learned concepts and strengthen problem-solving skills through additional LeetCode practice.
 
+# Day 4 - Arrays & Basic Sorting Algorithms- 25 June 2026
+
+## Problems Solved
+
+### LeetCode
+
+1. LC 75 - Sort Colors
+
+   * Approach: Counting Sort
+   * Time Complexity: O(n)
+   * Space Complexity: O(1)
+
+2. LC 283 - Move Zeroes
+
+   * Approach: Two Pointers / In-place Rearrangement
+   * Time Complexity: O(n)
+   * Space Complexity: O(1)
+
+---
+
+## Sorting Algorithms Implemented
+
+### 1. Selection Sort
+
+* Finds the minimum element in the unsorted portion and places it at the correct position.
+* Time Complexity:
+
+  * Best: O(n²)
+  * Average: O(n²)
+  * Worst: O(n²)
+* Space Complexity: O(1)
+
+### 2. Bubble Sort
+
+* Repeatedly swaps adjacent elements if they are in the wrong order.
+* Time Complexity:
+
+  * Best: O(n) (Optimized)
+  * Average: O(n²)
+  * Worst: O(n²)
+* Space Complexity: O(1)
+
+### 3. Insertion Sort
+
+* Builds the sorted array one element at a time.
+* Time Complexity:
+
+  * Best: O(n)
+  * Average: O(n²)
+  * Worst: O(n²)
+* Space Complexity: O(1)
+
+---
+
+## Concepts Learned
+
+* In-place array manipulation
+* Frequency counting technique
+* Two-pointer technique
+* Stable vs Unstable sorting algorithms
+* Comparison-based sorting
+* Time and Space Complexity Analysis
+* Importance of maintaining relative order
+
+---
+
+## Key Takeaways
+
+* Multiple approaches can solve the same problem, but choosing the optimal one is crucial.
+* Counting techniques can reduce complexity significantly when the value range is limited.
+* Two-pointer methods often transform O(n²) solutions into O(n).
+* Understanding elementary sorting algorithms builds intuition for advanced sorts such as Merge Sort, Quick Sort, and Heap Sort.
+
+---
+
+## Progress Tracker
+
+* Arrays: In Progress
+* Sorting: Basics Completed
+* Two Pointers: Started
+* Binary Search: Upcoming
+* Recursion: Upcoming
+
+---
+
+## Consistency > Intensity
+
+Day 5 completed successfully.
+Current Focus:
+
+* Striver A2Z DSA Sheet
+* LeetCode Daily Practice
+* Building strong problem-solving fundamentals
+
+Goal: Top 1% Problem Solver through consistent daily practice.
+
+
+
+# Day 5 - 27 June 2026
+
+## Problems Solved
+
+### 1. Merge Sorted Array (LeetCode 88)
+- Used the Merge Step of Merge Sort.
+- Created a temporary array for valid elements of `nums1`.
+- Merged both sorted arrays using the Two Pointer technique.
+- Time Complexity: O(m + n)
+- Space Complexity: O(m + n)
+
+### 2. Kth Largest Element in an Array (LeetCode 215)
+- Solved using Sorting.
+- Sorted the array in ascending order.
+- Returned the element at index `n - k`.
+- Time Complexity: O(n log n)
+- Space Complexity: O(1) (ignoring recursion stack of `std::sort`)
+
+## Concepts Learned
+- Two Pointer Technique
+- Merge Step of Merge Sort
+- Sorting
+- Array Traversal
+- Index Calculation (`n - k`)
