@@ -99,7 +99,7 @@ This repository contains my solutions to DSA problems solved on LeetCode while f
 
 Used this buffer day to revise previously learned concepts and strengthen problem-solving skills through additional LeetCode practice.
 
-# Day 5 - Arrays & Basic Sorting Algorithms- 25 June 2026
+# Day 4 - Arrays & Basic Sorting Algorithms- 25 June 2026
 
 ## Problems Solved
 
@@ -196,3 +196,28 @@ Current Focus:
 Goal: Top 1% Problem Solver through consistent daily practice.
 
 
+
+# Day 5 - 27 June 2026
+
+## Problems Solved
+
+### 1. Merge Sorted Array (LeetCode 88)
+- Used the Merge Step of Merge Sort.
+- Created a temporary array for valid elements of `nums1`.
+- Merged both sorted arrays using the Two Pointer technique.
+- Time Complexity: O(m + n)
+- Space Complexity: O(m + n)
+
+### 2. Kth Largest Element in an Array (LeetCode 215)
+- Solved using Sorting.
+- Sorted the array in ascending order.
+- Returned the element at index `n - k`.
+- Time Complexity: O(n log n)
+- Space Complexity: O(1) (ignoring recursion stack of `std::sort`)
+
+## Concepts Learned
+- Two Pointer Technique
+- Merge Step of Merge Sort
+- Sorting
+- Array Traversal
+- Index Calculation (`n - k`)
